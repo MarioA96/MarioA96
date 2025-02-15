@@ -2,11 +2,11 @@ Hi 👋 My name is MARIO
 ============================
 Web Developer
 -------------
-Eng. in Computer Systems, I've been programming for around +5 years, passionate for the innovation and the challenges.
+Eng. in Computer Systems, I've been programming for around +6 years, passionate for the innovation and the challenges.
 * 🌍  I'm based in México, México*
 * ✉️  You can contact me at [marioaquirozs@gmail.com](mailto:marioaquirozs@gmail.com)
-* 🧠  I'm learning Astro, Svelte, .Net
-* 🤝  I'm open to collaborating on Interesting projects like UI/UX, Web design, Front and Backend Development
+* 🧠  I'm learning Astro, Svelte, .Net, IOT, C, AI
+* 🤝  I'm open to collaborating on Interesting projects like UI/UX, Web design, Front and Backend Development but also some other fields of computer science
 * ⚡  I love new tech, knowledge on everything computers or math are involved!
 
 <a href="https://www.twitch.tv/kayser500" target="_blank" rel="noreferrer"><img
