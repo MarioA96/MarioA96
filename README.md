@@ -2,7 +2,7 @@ Hi 👋 My name is MARIO
 ============================
 Web Developer
 -------------
-Eng. in Computer Engineering, I've been programming for around +6 years, passionate for the innovation and the challenges.
+Degree in Computer Engineering, I've been programming for around +6 years, passionate for the innovation and the challenges.
 * 🌍  I'm based in México, México*
 * ✉️  You can contact me at [marioaquirozs@gmail.com](mailto:marioaquirozs@gmail.com)
 * 🧠  I'm learning Astro, Svelte, .Net, IOT, C, AI
