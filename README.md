@@ -8,15 +8,16 @@
 
 ---
 
-Degree in Computer Engineering, I've been programming for around +6 years, passionate for the innovation and the challenges.
+Hi there! I'm a software developer with a Computer Engineering degree and over 6 years of experience. I thrive on innovation and love tackling new challenges in the tech world.
 
 ---
 
-- 🔭 Currently working as **Software Developer** as Freelancer
-- 🌱 Learning: **Rust, Golang**
+- 🔭 Currently working as **Software Developer** as **Freelancer**
+- 🌱 Learning: **Diving into Rust and Golang to expand my programming toolkit.**
+- 💬 Ask me about: **JavaScript frameworks, software architecture, or building scalable applications.**
 - 📍 Based in: **Mexico, Mexico**
 - 📫 Reach me: [marioaquirozs@gmail.com](mailto:marioaquirozs@gmail.com)
-- ⚡ Fun fact: I like numbers
+- ⚡ Fun fact: I'm a numbers enthusiast
 
 ---
 
