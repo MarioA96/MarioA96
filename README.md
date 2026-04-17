@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://marioa96.github.io/my-site/">Website</a> •
-  <a href="https://twitter.com/">Twitter</a> •
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/mario-quiroz-sold%C3%A1n-59aa9429a/">LinkedIn</a> •
   <a href="https://github.com/MarioA96">GitHub</a>
 </p>
